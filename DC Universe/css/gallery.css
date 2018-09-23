@@ -28,12 +28,3 @@
     min-height: 800px;
     background: transparent;
 }
-
-
-
-.parallax2{
-    background: transparent;
-}
-.content{
-	z-index="2";
-}
